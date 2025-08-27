@@ -1,0 +1,21 @@
+﻿Customer ID,Customer Name,Address,Province,Country,Latitude,Longitude,Sales,Product,Contact
+1,Factory A,123 ถนนสุขุมวิท เขตวัฒนา กรุงเทพฯ 10110,Bangkok,Thailand,13.7563,100.5018,5200000,Textile,081-234-5678
+2,Factory B,55 หมู่ 2 ถ.บางนา-ตราด บางพลี สมุทรปราการ 10540,Samut Prakan,Thailand,13.561,100.726,8300000,Automotive Parts,089-111-2233
+3,Factory C,88 ถ.ติวานนท์ อ.เมือง นนทบุรี 11000,Nonthaburi,Thailand,13.8621,100.5137,3100000,Plastics,082-555-7788
+4,Factory D,199 ถ.พหลโยธิน คลองหลวง ปทุมธานี 12120,Pathum Thani,Thailand,14.0667,100.65,9600000,Electronics,086-999-0001
+5,Factory E,77 ถ.โรจนะ อ.อุทัย พระนครศรีอยุธยา 13210,Ayutthaya,Thailand,14.329,100.664,4800000,Food & Beverage,080-333-4444
+6,Factory F,200 ถนนสุขุมวิท ศรีราชา ชลบุรี 20110,Chonburi,Thailand,13.1588,100.9289,7100000,Steel Fabrication,084-666-7777
+7,Factory G,150 ถนนสุขุมวิท เมือง ระยอง 21000,Rayong,Thailand,12.6803,101.281,5400000,Chemicals,083-123-4567
+8,Factory H,12 ถ.เอกชัย เมือง สมุทรสาคร 74000,Samut Sakhon,Thailand,13.5475,100.2736,2750000,Seafood Processing,081-777-8889
+9,Factory I,45 ถ.เพชรเกษม สามพราน นครปฐม 73110,Nakhon Pathom,Thailand,13.7273,100.2669,3600000,Packaging,085-222-3344
+10,Factory J,300 ถ.เชียงใหม่-ลำพูน เมือง เชียงใหม่ 50000,Chiang Mai,Thailand,18.7883,98.9853,1950000,Furniture,087-555-6666
+11,Factory K,222 ถ.พหลโยธิน เมือง เชียงราย 57000,Chiang Rai,Thailand,19.9072,99.8301,1650000,Food Processing,089-222-1111
+12,Factory L,99 ถ.มิตรภาพ เมือง ขอนแก่น 40000,Khon Kaen,Thailand,16.4419,102.835,4200000,Rubber Products,081-909-1010
+13,Factory M,12 ถ.ราชสีมา-โชคชัย เมือง นครราชสีมา 30000,Nakhon Ratchasima,Thailand,14.9799,102.0977,5900000,Auto Assembly,086-212-3434
+14,Factory N,50 ถ.กาญจนวนิช หาดใหญ่ สงขลา 90110,Songkhla,Thailand,7.0086,100.4747,3800000,Latex Gloves,082-808-9090
+15,Factory O,120 ถ.ตลาดใหม่ เมือง สุราษฎร์ธานี 84000,Surat Thani,Thailand,9.1382,99.3215,2100000,Beverages,080-101-2020
+16,Factory P,10 ถ.กลางเมือง เมือง อุดรธานี 41000,Udon Thani,Thailand,17.4138,102.787,2400000,Agricultural Equip.,084-303-4040
+17,Factory Q,89 ถ.รังสิต-นครนายก ธัญบุรี ปทุมธานี 12130,Pathum Thani,Thailand,14.0174,100.7313,6900000,Electronics,089-606-7070
+18,Factory R,321 ถ.ปทุมวัน ปทุมวัน กรุงเทพฯ 10330,Bangkok,Thailand,13.746,100.5328,8700000,Medical Devices,081-000-1112
+19,Factory S,222 ถ.เพลินจิต ลุมพินี กรุงเทพฯ 10330,Bangkok,Thailand,13.7438,100.5493,4500000,Cosmetics,083-404-5050
+20,Factory T,500 ถ.ลาดพร้าว จตุจักร กรุงเทพฯ 10900,Bangkok,Thailand,13.8128,100.5743,3300000,Household Goods,086-505-6060
